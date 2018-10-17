@@ -1,0 +1,6 @@
+2018-10-08 11:39:34.660 INFO: Clean the value if any in [[FirefoxDriver: firefox on XP (a2e15df6-f922-44cb-972b-8dea5002cfd3)] -> id: key].
+2018-10-08 11:39:34.847 INFO: Type value is: iPhone.
+2018-10-08 11:39:56.069 INFO: Element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='search']/div/div[2]/button' was clicked.
+2018-10-08 11:39:57.725 INFO: Element: [[FirefoxDriver: firefox on XP (a2e15df6-f922-44cb-972b-8dea5002cfd3)] -> xpath: //*[@id='J_goodsList']/ul/li[1]/div/div[1]/a/img] was clicked.
+2018-10-08 11:39:58.897 INFO: 当前窗口数量： 2
+2018-10-08 11:39:59.553 INFO: new page title is 【AppleiPhone XS Max】Apple iPhone XS Max (A2104) 64GB 金色 移动联通电信4G手机 双卡双待【行情 报价 价格 评测】-京东
